@@ -1,3 +1,4 @@
+![Output](https://github.com/Susmaksingh/Portfolio-static./assets/121927030/4598ac60-ee4b-41b2-9a7a-4d4a18d61dca)
 ## Responsive Portfolio Website ✨
 
 Responsive Portfolio Website Using HTML, CSS and JavaScript, with a beautiful user interface. 
